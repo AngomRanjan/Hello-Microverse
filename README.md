@@ -20,7 +20,7 @@ Here I learnt :
 - HTML
 - CSS
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://angomranjan.github.io/Hello-Microverse/)
 
